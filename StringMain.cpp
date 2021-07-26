@@ -1,3 +1,5 @@
+/* Copyright (C) 2020 Marco B. Shafer. All rights reserved.*/
+
 #include "String.h"
 #include <iostream>
 
