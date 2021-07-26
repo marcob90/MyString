@@ -1,3 +1,5 @@
+/* Copyright (C) 2020 Marco B. Shafer. All rights reserved.*/
+
 #ifndef STRING_H
 #define STRING_H
 
